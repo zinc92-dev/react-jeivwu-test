@@ -1,0 +1,26 @@
+{
+  "446": [
+    {
+      "imgUrl": "https://stickershop.line-scdn.net/stickershop/v1/sticker/1988/android/sticker.png",
+      "packageId": "446",
+      "stickerId": "1988"
+    },
+    {
+      "imgUrl": "https://stickershop.line-scdn.net/stickershop/v1/sticker/1989/android/sticker.png",
+      "packageId": "446",
+      "stickerId": "1989"
+    }
+  ],
+  "789": [
+    {
+      "imgUrl": "https://stickershop.line-scdn.net/stickershop/v1/sticker/10855/android/sticker.png",
+      "packageId": "10855",
+      "stickerId": "001"
+    },
+    {
+      "imgUrl": "https://stickershop.line-scdn.net/stickershop/v1/sticker/10856/android/sticker.png",
+      "packageId": "10856",
+      "stickerId": "002"
+    }
+  ]
+}
